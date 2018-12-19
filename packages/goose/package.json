@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@canary/duck": "^1.0.0"
+    "@canary/duck": "1.0.0"
   }
 }
