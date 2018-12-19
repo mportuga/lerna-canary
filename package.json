@@ -1,0 +1,16 @@
+{
+  "name": "canary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "bump": "lerna version",
+    "clean": "lerna clean"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^3.7.0"
+  }
+}
