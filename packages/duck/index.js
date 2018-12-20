@@ -1,4 +1,4 @@
 module.exports = {
     ducks: 'ducks',
-    duck: 'duck'
+    duck: 'DUCK'
 };
