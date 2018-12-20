@@ -1,1 +1,4 @@
-module.exports = 'ducks';
+module.exports = {
+    ducks: 'ducks',
+    duck: 'duck'
+};
