@@ -1,5 +1,5 @@
 const ducks = require('@canary/duck');
 
-const duck = ducks.substring(0, 3);
+const duck = ducks.duck;
 
 module.exports = `${duck} ${duck} goose`;
