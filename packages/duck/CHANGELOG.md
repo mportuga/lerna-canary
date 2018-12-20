@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/mportuga/lerna-canary/compare/v1.0.0...v1.0.1) (2018-12-20)
+
+
+### Bug Fixes
+
+* **duck:** make duck seem more important ([115efb8](https://github.com/mportuga/lerna-canary/commit/115efb8))
+
+
+
+
+
 # [1.0.0](https://github.com/mportuga/lerna-canary/compare/v0.2.0...v1.0.0) (2018-12-20)
 
 
