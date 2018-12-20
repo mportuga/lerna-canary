@@ -1,6 +1,6 @@
 {
   "name": "@canary/goose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@canary/duck": "^0.1.0"
+    "@canary/duck": "^0.1.1"
   }
 }
