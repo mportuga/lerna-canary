@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@angular/material": "^7.2.0",
+    "bootstrap": "^4.2.1",
     "lerna": "^3.7.0"
   }
 }
